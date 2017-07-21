@@ -8,6 +8,7 @@ Nodrošinātā funkcionalitāte:
   - Riņķa līnijas zīmēšana. Riņķa līnijas zīmēšanai ir izmantots [“Midpoint circle algorithm”](https://en.wikipedia.org/wiki/Midpoint_circle_algorithm). 
 
  Bibliotēkas demonstrējums konsolē izmantojot pseido-grafiku, kur:
+ 
  [![bibliotekas demonstrejums](https://github.com/SomePeaceStudio/mop-agra/blob/master/agra.png?raw=true)](https://github.com/SomePeaceStudio/mop-agra/blob/master/agra.png?raw=true)
  
   - melnās krāsas simbols ir tukšums ' ' (black)
